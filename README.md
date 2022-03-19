@@ -1,5 +1,5 @@
 <h1 align="center">
-   Portfólio Mayumi Kusuniki Advocacia
+   Portfólio Mayumi Kusunoki Advocacia
 </h1>
 <h4 align="center"> 
 Projeto: 🚧Em andamento
@@ -12,7 +12,7 @@ Projeto: 🚧Em andamento
 
 ## 💻 Objetivo
  
- Portfólio  - Site contendo todas as  informações referente a advogada Dra. Mayumi Kusunoki.
+ Portfólio  - Site contendo todas as  informações referente a Dra. Mayumi Kusunoki.
 
 
 ## 🛠 Tecnologias
